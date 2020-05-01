@@ -8,3 +8,4 @@ Curso #QuarentenaDados(Alura) e meus projetos.
 * **Aula3:** https://colab.research.google.com/drive/149ySPpVrxcxsfuHAMBzOt2FnOV5aAEKG
 * **Aula4:** https://colab.research.google.com/drive/1Lbc1jzWulOZ6Wa1A9l5k4HYxpk3NfY5n
 * **Aula5:** https://colab.research.google.com/drive/1O1X3xMQ5ZgZw7XGkJvzs-orbg2d_C-KD
+
